@@ -22,6 +22,7 @@ Ingredientes:
  Retira do lume e serve de imediato.
 
 Informação Nutricional:
+  Informação Nutricional:
  Totais por 100g
  Energia : 70 Kcal
  Proteínas: 1.77 g
@@ -29,3 +30,6 @@ Informação Nutricional:
  Lípidos Saturados : 0.17 g
  Hidratos de Carbono: 11.98 g
  dos quais Açucares: 1.99 g
+ dos quais Açucares: 1.99 g
+Fibra: 1.84 g
+ Sal: 0.58 g
